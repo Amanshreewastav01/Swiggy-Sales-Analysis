@@ -167,7 +167,7 @@ This helps identify customer purchasing behavior and spending patterns.
 
 ---
 
-# ### 📸 ERD DIAGRAM: STAR SCHEMA
+# 📸 ERD DIAGRAM: STAR SCHEMA
 <img width="782" height="702" alt="Screenshot 2026-05-07 162724" src="https://github.com/user-attachments/assets/9e20d922-6db9-4b69-b084-2897cc759b53" />
 
 ---
