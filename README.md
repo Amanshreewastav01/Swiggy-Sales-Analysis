@@ -47,9 +47,7 @@ This project demonstrates end-to-end SQL analytics including:
 ---
 
 # 🛠 Tools & Technologies Used
-- **MySQL**
 - **MySQL Workbench**
-- **SQL**
 
 ---
 
